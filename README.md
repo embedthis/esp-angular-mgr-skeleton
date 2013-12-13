@@ -9,4 +9,4 @@ pak install esp-mgr
 
 ### Get Pak from
 
-    https://github.com/embedthis/pak
+[https://github.com/embedthis/pak](https://github.com/embedthis/pak)
