@@ -3,8 +3,8 @@
     "description": "ESP Management Console Skeleton",
     "version": "5.0.0",
     "dependencies": {
-        "esp-best": "*",
-        "esp-gui": "*"
+        "esp-best": "~5.0",
+        "esp-gui": "~5.0"
     },
     "export": [
         "templates/**"
