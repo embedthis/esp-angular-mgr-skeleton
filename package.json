@@ -1,7 +1,7 @@
 {
     "name": "esp-mgr",
     "description": "ESP Management Console Skeleton",
-    "version": "1.0.0",
+    "version": "1.0.0-rc0",
     "keywords": [
         "esp",
     ],
@@ -15,9 +15,6 @@
     "esp": {
         "server": {
             "generate": {
-                "files": [
-                    "esp-mgr/**",
-                ]
             }
         }
     }
