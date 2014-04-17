@@ -10,7 +10,7 @@
         "esp-gui": "~1.0"
     },
     "export": [
-        "templates/**"
+        "generate/**"
     ],
     "esp": {
         "server": {
