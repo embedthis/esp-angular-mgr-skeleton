@@ -20,9 +20,9 @@
         }
     ],
     "export": [
-        "client/**",
-        "configure",
-        "main.me",
-        "make.bat",
+        {
+            from: [ "index.esp" ],
+            to: "client",
+        }
     ],
 }
