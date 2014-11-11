@@ -6,8 +6,8 @@
         "esp",
     ],
     "dependencies": {
-        "esp-best": "~5",
-        "esp-gui": "~5"
+        "esp-best": "~5.2",
+        "esp-gui": "~5.2"
     },
     "licenses": [
         {
