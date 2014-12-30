@@ -1,11 +1,11 @@
-pak-esp-mgr
+esp-mgr-skeleton
 ===
 
-ESP Manager Console.  Package of esp-mgr for the [Pak Package Manager](https://github.com/embedthis/pak).
+ESP Manager Console.  Package of esp-mgr-skeleton for the [Pak Package Manager](https://github.com/embedthis/pak).
 
 ### To install:
 
-pak install esp-mgr
+pak install esp-mgr-skeleton
 
 ### Get Pak from
 
