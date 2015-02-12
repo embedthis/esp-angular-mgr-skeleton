@@ -33,8 +33,8 @@
         "export": {
             "from": [
                 "contents/**",
-                "partials/**",
-                "layouts/**"
+                "layouts/**",
+                "partials/**"
             ],
             "to": "${TOP}",
             "overwrite": false
