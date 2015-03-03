@@ -20,8 +20,8 @@
         "url": "git://github.com/embedthis/esp-mgr-skeleton.git"
     },
     "dependencies": {
-        "esp-best": "~5.3",
-        "esp-gui": "~5.3"
+        "esp-best": "^5.3",
+        "esp-gui": "^5.3"
     },
     "pak": {
         "blend": {
