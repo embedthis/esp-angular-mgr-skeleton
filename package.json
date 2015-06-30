@@ -1,7 +1,7 @@
 {
     "name": "esp-mgr-skeleton",
     "description": "ESP Management Console Skeleton",
-    "version": "5.4.0",
+    "version": "5.4.1",
     "keywords": [
         "esp"
     ],
