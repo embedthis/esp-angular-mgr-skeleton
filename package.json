@@ -1,7 +1,7 @@
 {
     "name": "esp-angular-mgr-skeleton",
     "description": "ESP Management Console Skeleton",
-    "version": "5.4.2",
+    "version": "5.4.3",
     "keywords": [
         "esp"
     ],
@@ -23,6 +23,9 @@
         "esp-angular-best": "~5.4",
         "esp-angular-gui": "~5.4"
     },
+    "devDependencies": {
+        "pak": ">=0.11.3"
+    },
     "pak": {
         "blend": {
             "pak": {
@@ -38,7 +41,6 @@
             ],
             "to": "${TOP}",
             "overwrite": false
-        },
-        "version": ">=0.10.0"
+        }
     }
 }
